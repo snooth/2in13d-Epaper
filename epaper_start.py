@@ -43,7 +43,7 @@ def printToDisplay(string):
     epd.Clear(0xFF)      # clear the display
 
 
-printToDisplay("Hello, World!")
+printToDisplay("Hey You!")
 
 
 
